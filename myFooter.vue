@@ -29,8 +29,9 @@
 <style scoped>
 footer{
   margin: 0 auto;
+  margin-top: 30px;
   bottom: 0;
-  position: absolute;
+  position: relative;
   width: 100%;
   padding: 0 20px;
   padding-block: 1em;
