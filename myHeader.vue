@@ -86,7 +86,7 @@ header {
   justify-content: space-around;
   flex-wrap: wrap;
   box-sizing: border-box;
-  z-index: 1;
+  z-index: 0;
 }
 
 .logo {
