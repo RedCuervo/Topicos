@@ -1,12 +1,15 @@
 <template>
     <section class="caja">
+        
         <article class="cont">
+            
             <div class="img">
             </div> 
             <div  class="inf">
                 <label>Producto</label><br>
                 <label>Precio</label><br>
-                <a href=""><button class="btn">Comprar</button></a>
+                <a href="#"><button class="btn">Comprar</button></a>
+                <a href="#/Re"><button class="btn">Reseñas</button></a>
                 <a href=""><img src="../assets/img/cart.png"alt=""></a>
                 <a href=""><img src="../assets/img/favorite.png"alt=""></a>
             </div>     
@@ -53,6 +56,7 @@
                 <a href=""><button class="btn">Comprar</button></a>
                 <a href=""><img src="../assets/img/cart.png"alt=""></a>
                 <a href=""><img src="../assets/img/favorite.png"alt=""></a>
+                
             </div>     
         </article>
         <article class="cont">
@@ -62,6 +66,7 @@
                 <label>Producto</label><br>
                 <label>Precio</label><br>
                 <a href=""><button class="btn">Comprar</button></a>
+               
                 <a href=""><img src="../assets/img/cart.png"alt=""></a>
                 <a href=""><img src="../assets/img/favorite.png"alt=""></a>
             </div>     

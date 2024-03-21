@@ -41,7 +41,7 @@
     <a href="" class="cart"><img src="../assets/cart.png" alt=""></a>
     <div class="usuario">
       <a href="" class="avatar"><img src="../assets/avatar.jpg" alt=""></a>
-      <a href="../components/registro/index.html" class="user">Sign In</a>
+      <a href="#/inicio" class="user">Sign In</a>
     </div>
   </header>
 </template>
